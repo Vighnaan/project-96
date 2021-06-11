@@ -1,0 +1,12 @@
+body{
+    background-image:linear-gradient(to bottom right,rgb(255, 0, 157),purple) ;
+}
+#logo{
+border-radius: 50%;
+width: 150px;
+height: 150px;
+}
+#name{
+    width: 160px;
+    height: 40px;
+}
